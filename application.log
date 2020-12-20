@@ -1,0 +1,8 @@
+2020-11-16 16:51:16,344  INFO [main] GenerateLogs:15 - launching browser
+2020-11-16 16:51:19,411  INFO [main] GenerateLogs:18 - google url has been launched
+2020-11-16 16:51:19,447  INFO [main] GenerateLogs:23 - the title isGoogle
+2020-11-16 16:51:19,447  INFO [main] GenerateLogs:27 - the correct title is Google and the test case is passed
+2020-11-16 16:51:58,630  INFO [main] GenerateLogs:15 - launching browser
+2020-11-16 16:52:01,974  INFO [main] GenerateLogs:18 - google url has been launched
+2020-11-16 16:52:01,981  INFO [main] GenerateLogs:23 - the title is:Google
+2020-11-16 16:52:01,982  INFO [main] GenerateLogs:27 - the correct title is Google and the test case is passed
